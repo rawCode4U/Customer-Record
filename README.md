@@ -1,8 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## About React App
+This is Single Pages Apllication for Customer records
+## Things learned from this preoject
+How to create Basic React App
+How to make Components in React js 
+State
+constructor
+Props
+Concatenation
+How to create Form in react
+How to validate Form .
+HOW to Refresh form fields
+How to handle handleSubmit and show alertbox
+How to create Nav Links
+BrowserRouter 
+Routing
+Switching
+How to render Component Dynamaic in React js
 
-In the project directory, you can run:
 
 ### `npm start`
 
