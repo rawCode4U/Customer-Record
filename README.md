@@ -3,21 +3,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## About React App
 This is Single Pages Apllication for Customer records
 ## Things learned from this preoject
-1.How to create Basic React App
-2.How to make Components in React js 
-3.State
-4.constructor
-5.Props
-6.Concatenation
-7.How to create Form in react
-8.How to validate Form .
-9.HOW to Refresh form fields
-10.How to handle handleSubmit and show alertbox
-11.How to create Nav Links
-12.BrowserRouter 
-13.Routing
-14.Switching
-15.How to render Component Dynamaic in React js
+1. How to create Basic React App
+2. How to make Components in React js 
+3. State
+4. constructor
+5. Props
+6. Concatenation
+7. How to create Form in react
+8. How to validate Form .
+9. HOW to Refresh form fields
+10. How to handle handleSubmit and show alertbox
+11. How to create Nav Links
+12. BrowserRouter 
+13. Routing
+14. Switching
+15. How to render Component Dynamaic in React js
 
 
 ### `npm start`
